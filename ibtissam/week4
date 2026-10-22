@@ -1,0 +1,10 @@
+print("hello")
+print("world")
+print("!")
+print("welcome to my Python Programming!")
+print("Albert einstein once said, 'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.'")
+print("Tom said,'i have always liked to hear \"I am the best\" as often as possible.'")
+
+import datetime
+now=datetime.datetime.now()
+print("current date and time is:",now)
